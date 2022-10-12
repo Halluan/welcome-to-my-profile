@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
-   <a href="https://github.com/Halluan">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Halluan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halluan&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/welcome-to-my-profile">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welcome-to-my-profile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcome-to-my-profile&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
  <a href="https://discord.gg/48jhrX6q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/halluan-guilherme-785bb6198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Halluan/Halluan/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Halluan/welcome-to-my-profile/blob/output/github-contribution-grid-snake.svg)
 
 </div>
